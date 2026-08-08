@@ -2,13 +2,11 @@
 
 
 
-<p align="center">the only girl i've ever loved was andrew in drag</p>
+<p align="center"> 𝑡ℎ𝑒 𝑜𝑛𝑙𝑦 𝑔𝑖𝑟𝑙 𝑖'𝑣𝑒 𝑒𝑣𝑒𝑟 𝑙𝑜𝑣𝑒𝑑 𝑤𝑎𝑠 𝑎𝑛𝑑𝑟𝑒𝑤 𝑖𝑛 𝑑𝑟𝑎𝑔 /p>
+
+$$\color{#ffa2b2}{\text{hanami , kori }}$$
 
 
 <p align="center">upcoming strawpage
 
 *<p align="center">[atabook!](https://forbiddenlove.atabook.org/)*
-
-$$\color{#ffa2b2}{\text{hanami , kori }}$$
-
-
