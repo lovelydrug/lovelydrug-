@@ -2,9 +2,9 @@
 
 
 
-<p align="center"> 𝑡ℎ𝑒 𝑜𝑛𝑙𝑦 𝑔𝑖𝑟𝑙 𝑖'𝑣𝑒 𝑒𝑣𝑒𝑟 𝑙𝑜𝑣𝑒𝑑 𝑤𝑎𝑠 𝑎𝑛𝑑𝑟𝑒𝑤 𝑖𝑛 𝑑𝑟𝑎𝑔 /p>
+<p align="center"> 𝑡ℎ𝑒 𝑜𝑛𝑙𝑦 𝑔𝑖𝑟𝑙 𝑖'𝑣𝑒 𝑒𝑣𝑒𝑟 𝑙𝑜𝑣𝑒𝑑 𝑤𝑎𝑠 𝑎𝑛𝑑𝑟𝑒𝑤 𝑖𝑛 𝑑𝑟𝑎𝑔 
 
-$$\color{#ffa2b2}{\text{hanami , kori }}$$
+$$\color{#ffc2c7}{\text{ha𝑛𝑎𝑚𝑖 , ko𝑟𝑖 }}$$
 
 
 <p align="center">upcoming strawpage
