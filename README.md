@@ -7,3 +7,7 @@
 <p align="center">upcoming strawpage
 
 *<p align="center">[atabook!](https://forbiddenlove.atabook.org/)*
+
+$\color{#ffa2b2}{\text{hi}}$
+
+
