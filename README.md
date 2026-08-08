@@ -4,4 +4,4 @@
 
 <p align="center"> <sub>  ㅤ  ׅ    ۫   𐂯ᩙ᩠𓏼    ׄ𝑡ℎ𝑒 𝑜𝑛𝑙𝑦 𝑔𝑖𝑟𝑙 𝑖'𝑣𝑒 𝑒𝑣𝑒𝑟 𝑙𝑜𝑣𝑒𝑑 𝑤𝑎𝑠 𝑎𝑛𝑑𝑟𝑒𝑤 𝑖𝑛 𝑑𝑟𝑎𝑔   ♡゙    ̹ ̜ㅤ</sub> 
 
-*<p align="center">[strawpage!](https://hanqmin.straw.page)* | *[atabook!] (https://hanqmin.atabook.org/)*
+*<p align="center">[strawpage!](https://hanqmin.straw.page)* | *[atabook!](https://hanqmin.atabook.org/)*
