@@ -9,7 +9,7 @@
 ${\color{#ffc0c7}һᥲᥒᥲmі  ,  k᥆rі}$ &nbsp;&nbsp; <img src="https://cdn.phototourl.com/free/2026-08-09-b38fd37b-9efa-45d3-9e59-767afdaf677e.png" width="35" style="vertical-align: middle;"> &nbsp;&nbsp; ${\color{#fe9ca4}𝗲𝗻𝗳𝗽}$
 
 
-*<p align="center">[strawpage!](https://hanqmin.straw.page)*   |  *[atabook!](https://hanqmin.atabook.org/)*
+*<p align="center">[strawpage!](https://hanqmin.straw.page)*   |  *[atabook!](https://hanqmin.atabook.org/)* | *[guns!](https://guns.lol/hanqmin)*
 
 
 <!-- Bottom Visual Decorative Element -->
