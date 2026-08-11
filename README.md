@@ -5,7 +5,7 @@
 
 <p align="center"> <sub>  ㅤ  ׅ    ۫   𐂯ᩙ᩠𓏼    ׄ𝑡ℎ𝑒 𝑜𝑛𝑙𝑦 𝑔𝑖𝑟𝑙 𝑖'𝑣𝑒 𝑒𝑣𝑒𝑟 𝑙𝑜𝑣𝑒𝑑 𝑤𝑎𝑠 𝑎𝑛𝑑𝑟𝑒𝑤 𝑖𝑛 𝑑𝑟𝑎𝑔 ♡゙    ̹ ̜ㅤ</sub> 
 
-<img src="https://cdn.phototourl.com/member/2026-08-11-30c15781-8866-429a-b291-33d29e2675cf.png" width="400">
+<img src="https://cdn.phototourl.com/member/2026-08-11-2a9d8a33-7140-4076-a468-bfdbb4ec61e0.png" width="400">
  
 
 
