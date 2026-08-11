@@ -10,3 +10,8 @@
 
 
 *<p align="center">[strawpage!](https://hanqmin.straw.page)*   |  *[atabook!](https://hanqmin.atabook.org/)* 
+
+
+<!-- Bottom Visual Decorative Element -->
+  <img src="https://cdn.phototourl.com/member/2026-08-11-ca43abec-e831-493c-bc8f-293830b021cf.png" width="100%" alt="Footer Wave">
+  
