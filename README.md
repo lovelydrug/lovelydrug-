@@ -5,6 +5,8 @@
  
 
 $$\color{#FFB1BC}\text{𝑡ℎ𝑒 𝑜𝑛𝑙𝑦 𝑔𝑖𝑟𝑙 𝑖'𝑣𝑒 𝑒𝑣𝑒𝑟 𝑙𝑜𝑣𝑒𝑑 𝑤𝑎𝑠,}$$
+
+
   
 <img src="https://cdn.phototourl.com/member/2026-08-13-b6c8275d-1f81-4ecf-bf43-fceeb605d8c3.png" width="400" alt="Profile Banner">
  
@@ -17,7 +19,10 @@ $$\color{#FFB1BC}\text{𝑡ℎ𝑒 𝑜𝑛𝑙𝑦 𝑔𝑖𝑟𝑙 𝑖'𝑣�
  
 <img src="https://cdn.phototourl.com/member/2026-08-13-500e0c4a-cd7c-422f-aa97-2f2c1dfa0783.png" width="100%">
 
- $$\color{#FFBCB0}\text{𝑎𝑛𝑑𝑟𝑒𝑤 𝑖𝑛 𝑑𝑟𝑎𝑔.}$$
+
+<!-- Put your text inside the font tags like this: -->
+
+<img src="https://cdn.phototourl.com/member/2026-08-13-36732ee9-0752-4989-8eb6-f275a4d621cf.png" width="30" align="center"> <font color="#FFBCB0"> 𝑎𝑛𝑑𝑟𝑒𝑤 𝑖𝑛 𝑑𝑟𝑎𝑔.</font> <img src="https://cdn.phototourl.com/member/2026-08-13-9955551d-a5eb-4c3c-9780-fd61b0a43dab.png" width="30" height="30" align="center">
 
  <img src="https://cdn.phototourl.com/member/2026-08-13-35307fbf-f330-454b-89eb-48e567ffd759.png" width="100%">
 
