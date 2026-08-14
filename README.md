@@ -18,8 +18,11 @@
 
  
 
-$$\color\{#FFBFC3}𝑝𝑡'𝑠 ‎  𝑎𝑛𝑔𝑒𝑙 ‎ 𝑑𝑒𝑣𝑖𝑙$$<a href="https://github.com/pt-fashion/pt-fashion">
- 
+$$\color\{#FFBFC3}𝑝𝑡'𝑠 ‎  𝑎𝑛𝑔𝑒𝑙 ‎ 𝑑𝑒𝑣𝑖𝑙$$ &nbsp;| &nbsp; [@pt-fashion](https://github.com/pt-fashion/pt-fashion)
+
+
+
+
  
 <img src="https://cdn.phototourl.com/member/2026-08-13-500e0c4a-cd7c-422f-aa97-2f2c1dfa0783.png" width="100%">
 
