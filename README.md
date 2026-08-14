@@ -4,8 +4,9 @@
 <img src="https://cdn.phototourl.com/member/2026-08-13-a1e18be6-aa5c-4302-b875-78ca211265f8.png" width="400" alt="Profile Border">
  
 
-$$\color{#FFB1BC}\text{𝑡ℎ𝑒 𝑜𝑛𝑙𝑦 𝑔𝑖𝑟𝑙 𝑖'𝑣𝑒 𝑒𝑣𝑒𝑟 𝑙𝑜𝑣𝑒𝑑 𝑤𝑎𝑠,}$$
+ 
 
+𝑡ℎ𝑒 𝑜𝑛𝑙𝑦 𝑔𝑖𝑟𝑙 𝑖'𝑣𝑒 𝑒𝑣𝑒𝑟 𝑙𝑜𝑣𝑒𝑑 𝑤𝑎𝑠, <img src="https://cdn.phototourl.com/member/2026-08-14-b84e6339-a81f-4eae-b3ba-84f94a2129dd.png" width="25" height="25">
 
   
 <img src="https://cdn.phototourl.com/member/2026-08-13-b6c8275d-1f81-4ecf-bf43-fceeb605d8c3.png" width="400" alt="Profile Banner">
