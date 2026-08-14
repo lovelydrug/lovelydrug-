@@ -13,9 +13,12 @@
  
   
 <img src="https://cdn.phototourl.com/member/2026-08-13-35307fbf-f330-454b-89eb-48e567ffd759.png" width="100%">
+
+<a href="https://hanqmin.straw.page"><img src="https://cdn.phototourl.com/member/2026-08-14-30ef2dfc-76d7-4776-a1fa-07b83afa5a47.png" width="140"></a> <a href="https://hanqmin.atabook.org/"><img src="https://cdn.phototourl.com/member/2026-08-14-4a325175-b835-4895-9837-bc9900410c96.png" width="100"></a>
+
  
 
-*<p align="center">[strawpage!](https://hanqmin.straw.page)*   |  *[atabook!](https://hanqmin.atabook.org/)* 
+*<p align="center">[pt's angel devil, @pt-fashion](https://github.com/pt-fashion/pt-fashion)*
 
  
 <img src="https://cdn.phototourl.com/member/2026-08-13-500e0c4a-cd7c-422f-aa97-2f2c1dfa0783.png" width="100%">
