@@ -34,6 +34,8 @@ $$\color\{#FFBFC3}𝑝𝑡'𝑠 ‎  𝑎𝑛𝑔𝑒𝑙 ‎ 𝑑𝑒𝑣𝑖�
  <img src="https://cdn.phototourl.com/member/2026-08-13-35307fbf-f330-454b-89eb-48e567ffd759.png" width="100%">
 
  <img src="https://cdn.phototourl.com/member/2026-08-13-094654a4-9377-4812-adc1-008ae8a33052.png" width="100%">
+ 
+ $$\color\{#FFBFC3}𝑤ℎ𝑖𝑠𝑝𝑒𝑟 ‎  𝑚𝑒 ‎  𝑓𝑖𝑟𝑠𝑡‎  𝑖𝑓 ‎   𝑦𝑜𝑢 ‎  𝑤𝑎𝑛𝑡 ‎  𝑡𝑜‎   𝑛𝑜𝑚𝑖𝑛𝑎𝑡𝑒  ‎  𝑚𝑒 ‎  𝑖𝑛‎   𝑎𝑛𝑦𝑡ℎ𝑖𝑛𝑔 ‎  𝑜𝑛 ‎  𝑝𝑡 <3$$ 
 
 <!-- Bottom Visual Decorative Element -->
   <img src="https://cdn.phototourl.com/member/2026-08-13-04f8218b-4fff-41f3-8785-0f5bdc6c2050.png" width="100%" alt="Footer Wave">
