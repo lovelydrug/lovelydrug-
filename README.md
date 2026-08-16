@@ -3,9 +3,7 @@
 
 <img src="https://cdn.phototourl.com/member/2026-08-13-a1e18be6-aa5c-4302-b875-78ca211265f8.png" width="400" alt="Profile Border">
 
-![angels!](https://komarev.com/ghpvc/?username=lovelydrugname&style=for-the-badge&color=FFB1B6)
-
- 
+![visitor count](https://komarev.com/ghpvc/?username=lovelydrug&label=angels!&color=FFB1B6)
 
  
 
