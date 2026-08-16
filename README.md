@@ -26,6 +26,7 @@
   $$\color\{#FFBFC3}𝑝𝑡'𝑠 ‎  𝑎𝑛𝑔𝑒𝑙 ‎ 𝑑𝑒𝑣𝑖𝑙$$ &nbsp;| &nbsp; [@pt-fashion](https://github.com/pt-fashion/pt-fashion)
 
 
+![](https://komarev.com/ghpvc/?username=lovelydrugname&label=angels!&color=E983B2)
 
 
 
