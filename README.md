@@ -9,7 +9,7 @@
   <img src="https://cdn.phototourl.com/member/2026-08-16-7ca1e5f9-a772-41d5-9e5d-fea3cfacd8e1.png" width="130" style="margin-left: 10 px;" />
 </div>
 
- <div align="center">
+ 
   
 <img src="https://cdn.phototourl.com/member/2026-08-16-f96beb55-8ec0-45b5-b788-ef9170f9d3b3.png" width="100%">
  
@@ -22,10 +22,20 @@
   </a>
 </div>
 
+<div align="left">
+  
 
-  $$\color\{#FFBFC3}𝑝𝑡'𝑠 ‎  𝑎𝑛𝑔𝑒𝑙 ‎ 𝑑𝑒𝑣𝑖𝑙$$ &nbsp;| &nbsp; [@pt-fashion](https://github.com/pt-fashion/pt-fashion)
+  
+  <img align="right" src="https://cdn.phototourl.com/member/2026-08-16-e4ff0982-e9bf-4703-b4e7-fb5e43306282.png" width=45%>
+
+<div align="center">
+
+$$\color\{#FFBFC3}𝑝𝑡'𝑠 ‎  𝑎𝑛𝑔𝑒𝑙 ‎ 𝑑𝑒𝑣𝑖𝑙$$
+[@pt-fashion](https://github.com/pt-fashion/pt-fashion)
 
 
+
+  
 ![](https://komarev.com/ghpvc/?username=lovelydrugname&label=angels!&color=E983B2)
 
 
