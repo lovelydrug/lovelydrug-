@@ -1,43 +1,37 @@
-<div align=center>
+
+<img src="https://cdn.phototourl.com/member/2026-08-16-8dfd9573-2c3e-4c21-bde4-3afe2f9e4138.png" width="100%" alt="Profile Border">
+
+
+
+
+<div align="center">
+  <img src="https://cdn.phototourl.com/member/2026-08-16-dc73dc6d-a086-4d38-a99f-adb5c2c4a267.png" width="160" />
+  <img src="https://cdn.phototourl.com/member/2026-08-16-7ca1e5f9-a772-41d5-9e5d-fea3cfacd8e1.png" width="130" style="margin-left: 10 px;" />
+</div>
+
+ <div align="center">
   
-
-<img src="https://cdn.phototourl.com/member/2026-08-13-a1e18be6-aa5c-4302-b875-78ca211265f8.png" width="400" alt="Profile Border">
-
-![visitor count](https://komarev.com/ghpvc/?username=lovelydrug&label=angels!&color=FFB1B6)
-
+<img src="https://cdn.phototourl.com/member/2026-08-16-f96beb55-8ec0-45b5-b788-ef9170f9d3b3.png" width="100%">
  
+<div align="center">
+  <a href="https://hanqmin.straw.page">
+    <img src="https://cdn.phototourl.com/member/2026-08-16-2a10971e-819c-4508-93e3-283fed972f29.png" width="49%"/>
+  </a>
+  <a href="https://hanqmin.atabook.org/">
+    <img src="https://cdn.phototourl.com/member/2026-08-16-b44bb039-bea8-4df9-b19f-d202da388a72.png" width="45%" style="margin-left: 10 px;" />
+  </a>
+</div>
 
-𝑡ℎ𝑒 𝑜𝑛𝑙𝑦 𝑔𝑖𝑟𝑙 𝑖'𝑣𝑒 𝑒𝑣𝑒𝑟 𝑙𝑜𝑣𝑒𝑑 𝑤𝑎𝑠, <img src="https://cdn.phototourl.com/member/2026-08-14-b84e6339-a81f-4eae-b3ba-84f94a2129dd.png" width="25" height="25">
 
-  
-<img src="https://cdn.phototourl.com/member/2026-08-13-b6c8275d-1f81-4ecf-bf43-fceeb605d8c3.png" width="400" alt="Profile Banner">
+  $$\color\{#FFBFC3}𝑝𝑡'𝑠 ‎  𝑎𝑛𝑔𝑒𝑙 ‎ 𝑑𝑒𝑣𝑖𝑙$$ &nbsp;| &nbsp; [@pt-fashion](https://github.com/pt-fashion/pt-fashion)
+
+
+
+
+
+ <img src="https://cdn.phototourl.com/member/2026-08-16-f96beb55-8ec0-45b5-b788-ef9170f9d3b3.png" width="100%">
  
-  
-<img src="https://cdn.phototourl.com/member/2026-08-13-35307fbf-f330-454b-89eb-48e567ffd759.png" width="100%">
-
-<a href="https://hanqmin.straw.page"><img src="https://cdn.phototourl.com/member/2026-08-14-30ef2dfc-76d7-4776-a1fa-07b83afa5a47.png" width="140"></a> <a href="https://hanqmin.atabook.org/"><img src="https://cdn.phototourl.com/member/2026-08-14-4a325175-b835-4895-9837-bc9900410c96.png" width="100"></a>
-
- 
-
-$$\color\{#FFBFC3}𝑝𝑡'𝑠 ‎  𝑎𝑛𝑔𝑒𝑙 ‎ 𝑑𝑒𝑣𝑖𝑙$$ &nbsp;| &nbsp; [@pt-fashion](https://github.com/pt-fashion/pt-fashion)
-
-
-
-
- 
-<img src="https://cdn.phototourl.com/member/2026-08-13-500e0c4a-cd7c-422f-aa97-2f2c1dfa0783.png" width="100%">
-
-
-<!-- Put your text inside the font tags like this: -->
-
-<img src="https://cdn.phototourl.com/member/2026-08-13-36732ee9-0752-4989-8eb6-f275a4d621cf.png" width="30" align="center"> <font color="#FFBCB0"> 𝑎𝑛𝑑𝑟𝑒𝑤 𝑖𝑛 𝑑𝑟𝑎𝑔.</font> <img src="https://cdn.phototourl.com/member/2026-08-13-9955551d-a5eb-4c3c-9780-fd61b0a43dab.png" width="30" height="30" align="center">
-
- <img src="https://cdn.phototourl.com/member/2026-08-13-35307fbf-f330-454b-89eb-48e567ffd759.png" width="100%">
-
- <img src="https://cdn.phototourl.com/member/2026-08-13-094654a4-9377-4812-adc1-008ae8a33052.png" width="100%">
- 
- $$\color\{#FFBFC3}𝑤ℎ𝑖𝑠𝑝𝑒𝑟 ‎  𝑚𝑒 ‎  𝑓𝑖𝑟𝑠𝑡‎  𝑖𝑓 ‎   𝑦𝑜𝑢 ‎  𝑤𝑎𝑛𝑡 ‎  𝑡𝑜‎   𝑛𝑜𝑚𝑖𝑛𝑎𝑡𝑒  ‎  𝑚𝑒 ‎  𝑖𝑛‎   𝑎𝑛𝑦𝑡ℎ𝑖𝑛𝑔 ‎  𝑜𝑛 ‎  𝑝𝑡 <3$$ 
 
 <!-- Bottom Visual Decorative Element -->
-  <img src="https://cdn.phototourl.com/member/2026-08-13-04f8218b-4fff-41f3-8785-0f5bdc6c2050.png" width="100%" alt="Footer Wave">
+  <img src="https://cdn.phototourl.com/member/2026-08-16-ff6e0227-4ed3-48f2-8a3d-46cdff160cd8.png" width="100%" alt="Footer Wave">
   
