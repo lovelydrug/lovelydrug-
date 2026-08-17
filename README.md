@@ -34,7 +34,13 @@ $$\color\{#FFBFC3}𝑝𝑡'𝑠 ‎  𝑎𝑛𝑔𝑒𝑙 ‎ 𝑑𝑒𝑣𝑖�
 [@pt-fashion](https://github.com/pt-fashion/pt-fashion)
 
 
+$$\color\{#FFA1B4}"𝑜ℎ‎   𝑚𝑦$$
+$$\color\{#FFE1CD}𝒜𝑛𝑔𝑒𝑙...$$
 
+$$\color\{#FF8AB0}𝑐𝑜𝑚𝑒‎  𝑏𝑎𝑐𝑘 ‎  𝑡𝑜$$
+$$\color\{#E0658C}𝓂𝑒..."$$
+
+<div align="center">
   
 ![](https://komarev.com/ghpvc/?username=lovelydrugname&label=angels!&color=E983B2)
 
