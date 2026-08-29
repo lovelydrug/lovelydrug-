@@ -1,5 +1,5 @@
 
-<img src="https://cdn.phototourl.com/member/2026-08-16-8dfd9573-2c3e-4c21-bde4-3afe2f9e4138.png" width="100%" alt="Profile Border">
+<img src="https://cdn.phototourl.com/free/2026-08-29-e534e0c8-2599-4e06-a3fe-466c57b08d27.png" width="100%" alt="Profile Border">
 
 
 
@@ -15,10 +15,10 @@
  
 <div align="center">
   <a href="https://hanqmin.straw.page">
-    <img src="https://cdn.phototourl.com/member/2026-08-16-2a10971e-819c-4508-93e3-283fed972f29.png" width="49%"/>
+    <img src="https://cdn.phototourl.com/free/2026-08-29-20c1c53b-7e43-4b83-8d79-853492ece31c.png" width="49%"/>
   </a>
   <a href="https://hanqmin.atabook.org/">
-    <img src="https://cdn.phototourl.com/member/2026-08-16-b44bb039-bea8-4df9-b19f-d202da388a72.png" width="45%" style="margin-left: 10 px;" />
+    <img src="https://cdn.phototourl.com/free/2026-08-29-54ea0999-a5fd-4fe8-a756-40e41deca267.png" width="49%" style="margin-left: 10 px;" />
   </a>
 </div>
 
@@ -30,23 +30,11 @@
 
 <div align="center">
 
-$$\color\{#FFBFC3}𝑝𝑡'𝑠 ‎  𝑎𝑛𝑔𝑒𝑙 ‎ 𝑑𝑒𝑣𝑖𝑙$$
-[@pt-fashion](https://github.com/pt-fashion/pt-fashion)
 
-
-$$\color\{#FFA1B4}"𝑜ℎ‎   𝑚𝑦$$
-$$\color\{#FFE1CD}𝒜𝑛𝑔𝑒𝑙...$$
-
-$$\color\{#FF8AB0}𝑐𝑜𝑚𝑒‎  𝑏𝑎𝑐𝑘 ‎  𝑡𝑜$$
-$$\color\{#E0658C}𝓂𝑒..."$$
-
-<div align="center">
   
 ![](https://komarev.com/ghpvc/?username=lovelydrugname&label=angels!&color=E983B2)
 
 
-
- <img src="https://cdn.phototourl.com/member/2026-08-16-f96beb55-8ec0-45b5-b788-ef9170f9d3b3.png" width="100%">
  
 
 <!-- Bottom Visual Decorative Element -->
