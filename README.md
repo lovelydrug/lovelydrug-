@@ -1,17 +1,9 @@
+<img src="https://cdn.phototourl.com/free/2026-08-29-fca45dc1-c12e-42e8-9313-e6a4ada48eb2.png" width="100%">
 
-<img src="https://cdn.phototourl.com/free/2026-08-29-e534e0c8-2599-4e06-a3fe-466c57b08d27.png" width="100%" alt="Profile Border">
-
-
-
-
-<div align="center">
-  <img src="https://cdn.phototourl.com/member/2026-08-16-dc73dc6d-a086-4d38-a99f-adb5c2c4a267.png" width="160" />
-  <img src="https://cdn.phototourl.com/member/2026-08-16-7ca1e5f9-a772-41d5-9e5d-fea3cfacd8e1.png" width="130" style="margin-left: 10 px;" />
-</div>
+<img src="https://cdn.phototourl.com/free/2026-08-29-e534e0c8-2599-4e06-a3fe-466c57b08d27.png" width="100%">
 
  
   
-<img src="https://cdn.phototourl.com/member/2026-08-16-f96beb55-8ec0-45b5-b788-ef9170f9d3b3.png" width="100%">
  
 <div align="center">
   <a href="https://hanqmin.straw.page">
@@ -22,21 +14,17 @@
   </a>
 </div>
 
-<div align="left">
-  
 
-  
-  <img align="right" src="https://cdn.phototourl.com/member/2026-08-16-e4ff0982-e9bf-4703-b4e7-fb5e43306282.png" width=45%>
 
 <div align="center">
 
 
   
-![](https://komarev.com/ghpvc/?username=lovelydrugname&label=angels!&color=E983B2)
+![](https://komarev.com/ghpvc/?username=lovelydrugname&label=angels!&color=E6CBD1)
 
 
  
 
 <!-- Bottom Visual Decorative Element -->
-  <img src="https://cdn.phototourl.com/member/2026-08-16-ff6e0227-4ed3-48f2-8a3d-46cdff160cd8.png" width="100%" alt="Footer Wave">
+  <img src="https://cdn.phototourl.com/member/2026-08-29-a7210406-66b1-40c7-b006-ead39362f5cb.png" width="100%" alt="Footer Wave">
   
