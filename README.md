@@ -1,6 +1,8 @@
 <img src="https://cdn.phototourl.com/member/2026-08-30-93785952-e761-436d-9e2b-b3a6aba9b9e4.png" width="100%"> 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=;you+know+i'll+do+anything+you+ask+me+to...;but+oh+my+god+i+think+i'm+inlove+with+you...&size=15&color=D5B1B4)](https://git.io/typing-svg)
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=;゛ყ𑴓ᥙ+𝓴ກoⲱ+𝑖'ℓℓ+do+ᨡnყtჩ𝑖ng+ყ𑴓ᥙ+ᨡ𑂘k+ꩇe+to...゛;゛ᑲսȶ+oჩ+ꩇყ+god+𝑖+tჩ𝑖ກk+𝑖'ꩇ+inℓovᧉ+ⲱiȶჩ+ყoս...゛&size=15&color=D5B1B4)](https://git.io/typing-svg)
 
 
 <img src="https://cdn.phototourl.com/member/2026-08-30-b54701b2-7591-455c-91c2-35f884abbfbd.png" width="100%"> 
@@ -19,10 +21,11 @@
 
 
 
-<div align="center">
 
  
-![](https://komarev.com/ghpvc/?username=lovelydrugname&label=𖹭&color=E6CBD1)  
+<a href="https://github.com/pt-fashion/pt-fashion">*[pt fashion]*
+ 
+ ![](https://komarev.com/ghpvc/?username=lovelydrugname&label=𖹭&color=E6CBD1)
 
 
  
