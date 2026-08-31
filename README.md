@@ -1,6 +1,6 @@
 <img src="https://cdn.phototourl.com/member/2026-08-30-93785952-e761-436d-9e2b-b3a6aba9b9e4.png" width="100%"> 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=you+know+i'll+do+anything+you+ask+me+to...;but+oh+my+god+i+think+i'm+inlove+with+you...&size=20&color=D5B1B4)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=;you+know+i'll+do+anything+you+ask+me+to...;but+oh+my+god+i+think+i'm+inlove+with+you...&size=15&color=D5B1B4)](https://git.io/typing-svg)
 
 
 <img src="https://cdn.phototourl.com/member/2026-08-30-b54701b2-7591-455c-91c2-35f884abbfbd.png" width="100%"> 
