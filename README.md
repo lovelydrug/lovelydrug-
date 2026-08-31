@@ -22,11 +22,11 @@
 
 
 
+
+ 
+ ![](https://komarev.com/ghpvc/?username=lovelydrugname&label=𖹭&color=E6CBD1)  ‎  $\color{#D5B1B4}{թȶ'𑂘 ᨡngᧉℓ ‎ dᧉv𝑖ℓ}$
  
 <a href="https://github.com/pt-fashion/pt-fashion">*[pt fashion]*
- 
- ![](https://komarev.com/ghpvc/?username=lovelydrugname&label=𖹭&color=E6CBD1)
-
 
  
 
