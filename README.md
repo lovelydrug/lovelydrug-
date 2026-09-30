@@ -2,10 +2,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=;゛ყ𑴓ᥙ+𝓴ກoⲱ+𝑖'ℓℓ+do+ᨡnყtჩ𝑖ng+ყ𑴓ᥙ+ᨡ𑂘k+ꩇe+to...゛;゛ᑲսȶ+oჩ+ꩇყ+god+𝑖+tჩ𝑖ກk+𝑖'ꩇ+inℓovᧉ+ⲱiȶჩ+ყoս...゛&size=15&color=D5B1B4)](https://git.io/typing-svg)
-
-
-![](https://komarev.com/ghpvc/?username=lovelydrugname&label=𖹭&color=F9DEE2)
+![](https://komarev.com/ghpvc/?username=lovelydrugname&label=U・ᴥ・U&color=F9DEE2)    <img src="https://cdn.phototourl.com/member/2026-09-30-55ff42ea-f15b-4872-9854-5021c3ecf87e.gif" width="46">
 
 <img src="https://cdn.phototourl.com/member/2026-09-30-9cce3325-3da6-4db5-b99f-c6f971bf38a8.png" width="100%"> 
 
