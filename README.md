@@ -10,6 +10,26 @@
  
  
 <div align="center">
+
+
+<table border="0" width="100%">
+  <tr>
+    <!-- Left Column: The expandable dropdown and names -->
+    <td width="55%" align="left" valign="top">
+      <details>
+        <summary><b>silly &nbsp; bakas &nbsp;ᐡ ᐧ ﻌ ᐧ ᐡ </b></summary>
+       <!-- You can add text, links, or lists for your friends here -->
+        <h3>‹yann , chucky , fishy𝟹 wifeys, shade, vyn,‹mikyii , khas𝟹 ma lads trio, tagli, nashi, six &nbsp; &nbsp; ask if you want to be added!</h3>
+      </td>
+      <td width="50%" align="right" valign="middle">
+        <img src="https://cdn.phototourl.com/member/2026-10-01-9369b5a2-b532-47d8-9109-e7ff77cb6c42.png" width="250" alt="Friends hugging art"/>
+      </td>
+    </tr>
+  </table>
+</details>
+
+ 
+<div align="center">
   <a href="https://hanqmin.straw.page">
     <img src="https://cdn.phototourl.com/member/2026-09-30-007edcb7-492b-4726-b0e7-0c6f88053aa8.png" width="49%"/>
   </a>
@@ -17,7 +37,6 @@
     <img src="https://cdn.phototourl.com/member/2026-09-30-1e8bec58-382c-4326-8065-1e709adcd0a4.png" width="49%" style="margin-left: 10 px;" />
   </a>
 </div>
-
 
 
 
