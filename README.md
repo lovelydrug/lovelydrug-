@@ -22,7 +22,7 @@
         <span style="font-size: 10 px;">‹ &nbsp;yann &nbsp; chucky &nbsp; fishy &nbsp;𝟹 ← wifeys &nbsp; shade &nbsp; vyn &nbsp;‹ &nbsp; mikyii &nbsp; khas &nbsp;𝟹 ← ma lads trio &nbsp; tagli &nbsp; nashi &nbsp;six &nbsp; &nbsp; &nbsp; &nbsp;  + other oomfies!</span>
       </td>
       <td width="50%" align="right" valign="middle">
-        <img src="https://cdn.phototourl.com/member/2026-10-01-9369b5a2-b532-47d8-9109-e7ff77cb6c42.png" width="250" alt="Friends hugging art"/>
+        <img src="https://cdn.phototourl.com/member/2026-10-02-fbe4f160-46bf-430c-aba5-86a5ac1be0fa.png" width="250" alt="Friends hugging art"/>
       </td>
     </tr>
   </table>
@@ -31,10 +31,10 @@
  
 <div align="center">
   <a href="https://hanqmin.straw.page">
-    <img src="https://cdn.phototourl.com/member/2026-09-30-007edcb7-492b-4726-b0e7-0c6f88053aa8.png" width="49%"/>
+    <img src="https://cdn.phototourl.com/member/2026-10-02-1d072bb8-462e-420b-92b2-3aa949cd73dd.png" width="49%"/>
   </a>
   <a href="https://hanqmin.atabook.org/">
-    <img src="https://cdn.phototourl.com/member/2026-09-30-1e8bec58-382c-4326-8065-1e709adcd0a4.png" width="49%" style="margin-left: 10 px;" />
+    <img src="https://cdn.phototourl.com/member/2026-10-02-b79cbe60-995c-413a-8597-2318e6603033.png" width="49%" style="margin-left: 10 px;" />
   </a>
 </div>
 
