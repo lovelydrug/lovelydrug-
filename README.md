@@ -19,7 +19,7 @@
       <details>
         <summary><b>silly &nbsp; bakas &nbsp;ᐡ ᐧ ﻌ ᐧ ᐡ </b></summary>
        <!-- You can add text, links, or lists for your friends here -->
-        <span style="font-size: 10 px;">‹ &nbsp;yann &nbsp; chucky &nbsp; fishy &nbsp;𝟹 ← wifeys &nbsp; shade &nbsp; vyn &nbsp;‹ &nbsp; mikyii &nbsp; khas &nbsp;𝟹 ← ma lads trio &nbsp; tagli &nbsp; nashi &nbsp;six &nbsp; &nbsp; &nbsp; &nbsp;  + other oomfies!</span>
+        <span style="font-size: 10 px;">‹ &nbsp;yann &nbsp; chucky &nbsp; fishy &nbsp;𝟹 ← wifeys &nbsp; shade &nbsp; vyn &nbsp;‹ &nbsp; mikyii &nbsp; khas &nbsp;𝟹 ← ma lads trio &nbsp; tagli &nbsp; nashi  &nbsp; nez &nbsp; six &nbsp; kevvy &nbsp; hani &nbsp; mocha &nbsp; citron &nbsp; &nbsp; &nbsp; &nbsp;  + other oomfies!</span>
       </td>
       <td width="50%" align="right" valign="middle">
         <img src="https://cdn.phototourl.com/member/2026-10-02-fbe4f160-46bf-430c-aba5-86a5ac1be0fa.png" width="250" alt="Friends hugging art"/>
